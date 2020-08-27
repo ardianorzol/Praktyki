@@ -1,0 +1,495 @@
+.body
+{
+    background-color: #f3f3f4;
+}
+.blueBar
+{
+    background-color: #04B1D8;
+    padding-top: 5px;
+    margin: 0;
+}
+.blackBar
+{
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 1px;
+}
+.line
+{
+    margin-top: 10px;
+}
+
+.section0
+{
+    position: relative;
+}
+.section0 img
+{
+    display: block;
+}
+.signs
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.partOne
+{
+    align-self: center;
+    width: 250px;
+    color: white;
+}
+.partOne img
+{
+    width: 20px;
+    
+}
+.partTwo
+{
+    align-self: center;
+    color: white;
+}
+.partTwo img
+{
+    height: 40px;
+    width: auto;
+}
+.section1
+{
+    margin-top: -20vh;
+    
+}
+.section1 img
+{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+figure
+{
+    position: relative;
+    
+}
+.section1 p
+{
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    height: 100%;
+    display: flex;
+}
+.blue
+{
+    background-color: rgba(4, 177, 216, 0.6);
+}
+.dark
+{
+    background-color: rgba(81, 112, 128, 0.6);
+}
+.section1 span
+{
+    align-self: center;
+}
+
+.section2 img
+{
+    width: 100%;
+    height: auto;
+}
+.section2 .bar
+{
+    width: 20px;
+}
+.section2 .table
+{
+    padding: 50px;
+    padding-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #0285B7;
+    color: #bdbdbd;
+}
+.section2 .active, .section2 h3
+{
+    color: white;
+}
+.section2 span
+{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    width: 50%;
+}
+.section2 .button
+{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+    color: black;   
+    border: 0;
+}
+.section2 .dark
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.legal
+{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.legal .line
+{
+    
+    transform: rotate(90deg);
+    margin-top: -25px;
+    width: 20px;
+}
+.section3
+{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.section3 .photo
+{
+    width: 95px;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+.section3 .blueBar
+{
+    width: auto;
+    height: 100px;
+}
+.section3 .rows
+{
+    display: flex;
+}
+.section3 .column2
+{
+    align-self: center;
+}
+.section3 p
+{
+    font-weight: bold;
+}
+
+.section4 img
+{
+    width: 100%;
+    height: auto;
+}
+.section4 .bar
+{
+    width: 20px;
+}
+.section4 .table
+{
+    padding: 50px;
+    padding-left: 100px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    background-color: #0285B7;
+    color: #bdbdbd;
+}
+.section4 .active, .section4 h3
+{
+    color: white;
+}
+.section4 span
+{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    width: 50%;
+    text-align: right;
+}
+.section4 .button
+{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: white;
+    color: black;
+    border: 0;   
+}
+.section4 .dark
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.section4
+{
+    margin-bottom: 50px;
+}
+.section5 .line
+{
+    
+    transform: rotate(90deg);
+    margin-top: -25px;
+    width: 20px;
+}
+.section5 .photo
+{
+    height: 170px;
+    width: 170px;
+    margin-bottom: 10px;
+}
+.section5 h6
+{
+    width: 112px;
+    margin-top: -10px;
+}
+footer
+{
+    background-color: #273F4B;
+}
+.footer
+{
+    margin-top: 50px;
+    padding-top: 25px;
+    color: white;
+}
+.footer a
+{
+    color: white;
+}
+.footer .whiteBar
+{
+    transform: rotate(90deg) scaleY(0.1);
+    width: 65px;
+    height: auto;
+    margin-top: -15px;
+}
+.footer .icon
+{
+    margin-right: 10px;
+
+}
+.contact .cont
+{
+    margin-top: -181px;
+}
+.contact figure
+{
+    position: relative;
+}
+.contact .leftText
+{
+    font-size: xx-large;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
+.contact .photo1
+{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.contact .dark
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+}
+.contact .leftSide
+{
+    background-color: #E9E9E9;
+    margin-bottom: -50px;
+}
+.contact .leftText2 p
+{
+    color: #949494;
+}
+.contact .rightSide
+{
+    margin-left: 80px;
+    margin-top: 70px;
+    color: white;
+}
+.contact .rightSide2
+{
+    margin-left: 80px;
+    margin-top: 60px;
+    color: white;
+}
+.contact input
+{
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #E9E9E9;
+    border: 0px;
+    margin-bottom: 20px;
+}
+.contact label
+{
+    color: #6E6E6E;
+    font-size: x-small;
+}
+.contact .box
+{
+    padding: 0;
+    margin-bottom: 0;
+    margin-right: 15px;
+}
+.contact .bigInput
+{
+    padding-right: 440px;
+}
+.contact .flex
+{
+    display: flex;
+}
+.contact button
+{
+    padding: 10px 20px 10px 150px;
+    border: 0;
+    background-color: #04B1D8;
+    color: white;
+}
+.contact .rightText
+{
+    color: #191919;
+    font-size: small;
+}
+table 
+{
+    width: 100%;
+    color: black;
+    font-size: small;
+}
+  
+td, th 
+{
+padding: 8px;
+}
+  
+tr:nth-child(even)
+{
+background-color: #D9D9D9;
+}
+@media (max-width: 575px)
+{
+    .section2 span
+    {
+        top: 5%;
+    }
+    .section4 .table
+    {
+        margin-top: -20px;
+    }
+    .section4 span
+    {
+        top: 5%;
+    }
+    
+}
+
+
+@media (max-width: 767px)
+{
+    .section1
+    {
+        margin-top: 50px;
+    }
+    .section2 span
+    {
+        top: 10%;
+    }
+    .section2 .table
+    {
+        margin-bottom: 0;
+    }
+    .section4 span
+    {
+        top: 10%;
+    }
+    
+}
+
+@media (max-width: 991px)
+{
+    
+    .line
+    {
+        transform: rotate(90deg);
+    }
+    .section5 .photo
+    {
+        width: 120px;
+        height: 120px;
+    }
+    .footer .whiteBar
+    {
+        transform: rotate(180deg) scaleY(0.1);
+    }
+    .contact .cont
+    {
+        margin-top: 100px;
+    }
+    
+    .contact .rightSide
+    {
+        margin-left: 30px;
+    }
+    .contact .rightSide2
+    {
+        margin-left: 30px;
+    }
+    .contact .leftText
+    {
+        top: 50px;
+    }
+}
+@media (max-width: 1199px)
+{
+    .contact .cont
+    {
+        margin-top: 0px;
+    }
+    .contact .bigInput
+    {
+        padding-right: 116px;
+    }
+    .contact .rightSide
+    {
+        color: black;
+    }
+    .contact .rightSide2
+    {
+        color: black;
+    }
+}
